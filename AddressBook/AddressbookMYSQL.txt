@@ -2,7 +2,7 @@
 
 //UC1 Creating database as AddessBookService
 
-mysql>create database AddressBookService;
+mysql>create database AddressBookService; 
 Query OK, 1 row affected (0.32 sec)
 
 mysql> show databases;
